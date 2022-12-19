@@ -188,7 +188,8 @@ header.global {
 	left: 0;
 	z-index: 250;
 	border-bottom: 1px solid rgba(0, 0, 0, .3019607843);
-	background-color: rgba(248, 248, 248, .95);
+	background-color: rgba(0,0,0,0.2);
+	backdrop-filter: blur(50px)
 }
 
 html.iframe header.global {
@@ -197,7 +198,7 @@ html.iframe header.global {
 
 body.dark-mode header.global {
 	border-bottom-color: rgba(255, 255, 255, .1450777202);
-	background-color: rgba(28, 28, 28, .95);
+	background-color: rgba(0,0,0,0.2);
 }
 
 #status-bar {
