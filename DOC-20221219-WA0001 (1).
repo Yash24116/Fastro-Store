@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+
+<head>
+  
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+
+<meta http-equiv="Content-Type" content="text/html;charset=windows-1251">
+
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+<title>Android Store</title>
+
+<link rel="stylesheet" href="style.css">
+
+<meta property="og:title" content="Android Store">
+
+<meta property="og:description" content="Safe and Lite apps for free">
+
+<meta property="og:image" content="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT982oVlN2xavOy_YTG8gU0nWjCwy35DFt5lw&usqp=CAU">
+
+<link rel="shortcut icon" href="favicon.png" type="image/x-icon" />
+
+</head>
+
+<body>
+  
+<header>
+  
+<div class="navbar">
+  
+<a href="#home">Android Store</a>
+
+</div>
+  
+</header>
+
+<br><br><br><br><br>
+
+<center>
+ 
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/5e/49/2d/5e492db6-af57-03a0-18e0-7eef4584800a/AppIcon-1x_U007emarketing-0-7-0-85-220.png/492x0w.webp" class="logo">
+  
+<p class="heading">Kinemaster</p>
+
+<a href="link here"><button class="btn">Download</button></a>
+
+<br><br><br>
+
+<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/a0/61/f7/a061f7ea-a932-e14c-8eaa-40437eeeb474/AppIcon-0-1x_U007emarketing-0-6-0-0-0-85-220-0.png/492x0w.webp" class="logo">
+
+<p class="heading">Spotify</p>
+
+<a href="link here"><button class="btn">Download</button></a>
+
+<br><br><br>
+
+<img src="https://is3-ssl.mzstatic.com/image/thumb/Purple122/v4/cc/76/20/cc7620e3-9253-6f9d-37e5-de8690c603b4/Prod-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.webp" class="logo">
+
+<p class="heading">Instagram</p>
+
+<a href="link here"><button class="btn">Download</button></a>
+
+<br><br><br>
+
+<img src="https://is4-ssl.mzstatic.com/image/thumb/Purple112/v4/20/f3/29/20f32910-4c1c-35f2-f655-41bbe6e518c4/AppIcon-0-1x_U007emarketing-0-5-0-85-220.png/492x0w.webp" class="logo">
+
+<p class="heading">Truecaller</p>
+
+<a href="link here"><button class="btn">Download</button></a>
+
+<br><br><br>
+
+<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/13/40/d6/1340d64d-4c82-15cc-faf8-eb985f5ab149/AppIconLLC-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/492x0w.webp" class="logo">
+
+<p class="heading">Telegram</p>
+
+<a href="link here"><button class="btn">Download</button></a>
+
+<br><br><br>
+
+<a href="https://Android.Os.Store/t.me">@Android.Os.Store on Telegram</a>
+
+<br>
+
+<a href="mailto:yourmail@gmail.com">@Email</a>
+
+<br><br>
+
+🙂😁😂
+</center>
+
+</body>
+
+
+</html>
